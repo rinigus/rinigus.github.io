@@ -12,9 +12,9 @@ ssu dr adaptation0
 ssu release $RELEASE
 ssu dr extra
 ssu dr mw
-ssu ar mw http://repo.merproject.org/obs/nemo:/devel:/hw:/common/sailfish_latest_armv7hl/
+ssu ar mw http://repo.merproject.org/obs/nemo:/testing:/hw:/common/sailfish_latest_armv7hl/
 ssu er mw
-ssu ar dhd http://repo.merproject.org/obs/nemo:/devel:/hw:/lge:/mako/sailfish_latest_armv7hl/
+ssu ar dhd http://repo.merproject.org/obs/nemo:/testing:/hw:/lge:/mako/sailfish_latest_armv7hl/
 
 echo "BELOW: double-triple check that no -two- enabled repos point to the same URL"
 ssu lr
