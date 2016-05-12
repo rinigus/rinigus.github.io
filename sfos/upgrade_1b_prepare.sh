@@ -2,7 +2,7 @@
 
 set -e
 
-RELEASE=2.0.0.10
+RELEASE=2.0.1.11
 
 devel-su sed -i -e "s|^adaptation=.*$|adaptation=http://repo.merproject.org/obs/nemo:/testing:/hw:/lge:/mako/sailfish_latest_armv7hl/|" \
 /usr/share/ssu/repos.ini
