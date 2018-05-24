@@ -1,4 +1,4 @@
-# Donate Bitcoin to Rinigus
+# Donate to Rinigus
 
 Bitcoin donations are appreciated, thank you!
 
