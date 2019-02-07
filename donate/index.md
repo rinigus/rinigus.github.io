@@ -1,6 +1,6 @@
 # Donations to Rinigus
 
-Donations are currently accepted via PayPal and Bitcoin. 
+Donations are currently accepted via PayPal (preferred) and Bitcoin. 
 
 Please note that these donations are for my time and effort. The
 distribution of maps and generation of map databases are not funded
